@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Java Developer | Spring Boot 
+Java Backend Developer | Spring Boot 
 
 
 ## 🌐 Socials:
